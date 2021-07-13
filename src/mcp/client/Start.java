@@ -13,7 +13,6 @@ public class Start
          * --version is just used as 'launched version' in snoop data and is required
          * Working directory is used as gameDir if not provided
          */
-        String assets = System.getenv().containsKey("assetDirectory") ? System.getenv("assetDirectory") : "assets";
         Main.main(concat(new String[]{"--version", "mcp", "--accessToken", "0", "--userProperties", "{}"}, args));
     }
 
