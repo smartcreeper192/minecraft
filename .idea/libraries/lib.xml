@@ -42,7 +42,6 @@
       <root url="jar://$PROJECT_DIR$/lib/lwjgl-tinyfd-3.2.2-javadoc.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/lwjgl-openal-3.2.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/lwjgl-stb-3.2.2-natives-macos.jar!/" />
-      <root url="jar://$PROJECT_DIR$/lib/brigadier-1.0.17.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/jsr305-3.0.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/commons-io-2.5.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/lwjgl-3.2.2-natives-windows.jar!/" />
@@ -50,7 +49,6 @@
       <root url="jar://$PROJECT_DIR$/lib/lwjgl-jemalloc-3.2.2-natives-linux.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/text2speech-1.11.3-sources.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/lwjgl-tinyfd-3.2.2-natives-macos.jar!/" />
-      <root url="jar://$PROJECT_DIR$/lib/datafixerupper-4.0.26.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/httpcore-4.3.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/jopt-simple-5.0.3.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/lwjgl-3.2.2.jar!/" />
