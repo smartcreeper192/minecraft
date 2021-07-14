@@ -33,7 +33,6 @@
       <root url="jar://$PROJECT_DIR$/lib/gson-2.8.0.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/lwjgl-glfw-3.2.2-natives-linux.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/text2speech-1.11.3-natives-windows.jar!/" />
-      <root url="jar://$PROJECT_DIR$/lib/authlib-2.1.28.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/lwjgl-opengl-3.2.2-natives-macos.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/guava-21.0.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/jinput-2.0.5.jar!/" />
